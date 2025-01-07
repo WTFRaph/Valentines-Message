@@ -1,0 +1,34 @@
+body{
+    background-image: url("pinkBackground.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text{
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#buttons{
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    height: 100px;
+    width: 250px;
+    margin: 10px;
+    font-family: cursive;
+    border: none;
+    border-radius: 5px;
+    font-size: 35px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
